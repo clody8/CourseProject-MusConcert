@@ -1,0 +1,19 @@
+D:\University\ооп\Курсовой\ООП_Курсач - Код\bin\Debug\net6.0-windows\ООП_Курсач - Код.exe
+D:\University\ооп\Курсовой\ООП_Курсач - Код\bin\Debug\net6.0-windows\ООП_Курсач - Код.deps.json
+D:\University\ооп\Курсовой\ООП_Курсач - Код\bin\Debug\net6.0-windows\ООП_Курсач - Код.runtimeconfig.json
+D:\University\ооп\Курсовой\ООП_Курсач - Код\bin\Debug\net6.0-windows\ООП_Курсач - Код.dll
+D:\University\ооп\Курсовой\ООП_Курсач - Код\bin\Debug\net6.0-windows\ООП_Курсач - Код.pdb
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.csproj.AssemblyReference.cache
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач___Код.Properties.Resources.resources
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.csproj.GenerateResource.cache
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.AssemblyInfoInputs.cache
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.AssemblyInfo.cs
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.csproj.CoreCompileInputs.cache
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.dll
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\refint\ООП_Курсач - Код.dll
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.pdb
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач - Код.genruntimeconfig.cache
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ref\ООП_Курсач - Код.dll
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач___Код.Autorization.resources
+D:\University\ооп\Курсовой\ООП_Курсач - Код\obj\Debug\net6.0-windows\ООП_Курсач___Код.Database.resources
